@@ -28,6 +28,7 @@ algorithm.
 # along with this file.  If not, see <http://www.gnu.org/licenses/>.
 #
 
+'Helloworld'
 
 class TOAHModel:
     """ Model a game of Tour Of Anne Hoy.
