@@ -29,8 +29,6 @@ algorithm.
 #
 
 
-Hello
-
 class TOAHModel:
     """ Model a game of Tour Of Anne Hoy.
 
